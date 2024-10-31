@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-<h3 align="center">NIT Durgapur ECE'27 | Passionate Fullstack Developer | Open Source & Linux Enthusiast</h3>
+<h3 align="center">NITD'27 ECE | Fullstack Developer | Open Source & Linux Enthusiast</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+[![An image of @wolfofdalalst's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wolfofdalalst)](https://holopin.io/@wolfofdalalst)
+
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 💬 Ask me about **Linux, Development and Electronics**
 
